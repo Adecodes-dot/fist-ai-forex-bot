@@ -1,0 +1,15 @@
+MetaTrader5
+pandas
+numpy
+pandas-ta
+textblob
+pytrends
+requests
+fredapi
+wbdata
+scikit-learn
+lightgbm
+imbalanced-learn
+joblib
+streamlit
+python-dotenv
